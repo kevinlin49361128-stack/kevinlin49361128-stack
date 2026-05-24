@@ -7,6 +7,8 @@ Software engineer based in Taiwan. Amateur violinist. I build tools for the
 domains I actually care about and ship them with the same finish as commercial
 products: notarized installers, live demos, test suites, real release tags.
 
+**🔗 Portfolio → <https://portfolio-kevinlin49361128-stacks-projects.vercel.app/>**
+
 ---
 
 ## Featured projects
