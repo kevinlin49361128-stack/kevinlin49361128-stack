@@ -75,3 +75,7 @@ are tools I wished existed for the rehearsals and chamber-music groups I play in
 
 Open an issue or discussion on any of the projects above — that's the fastest
 way to reach me. Email is on my GitHub profile.
+
+If a project is useful to you, an optional pay-what-you-want donation via
+[Wise](https://wise.com/pay/me/link213) helps cover hosting + Apple Developer
+fees. No paywalled features — recognition only.
