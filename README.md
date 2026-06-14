@@ -23,7 +23,7 @@ the sky with Hosek-Wilkie atmospheric scattering, applies stellar proper motion
 shows true north. INDI / ASCOM telescope bridge for amateur scopes.
 
 **Live demo:** <https://solar-system-3d-kappa.vercel.app/>
-**Stack:** Three.js · TypeScript · Vite · WebGL2 · 327 tests, MIT
+**Stack:** Three.js · TypeScript · Vite · WebGL2 · 390 tests, MIT
 
 ---
 
@@ -67,7 +67,7 @@ are tools I wished existed for the rehearsals and chamber-music groups I play in
 
 ## Currently shipping
 
-- **Solar System 3D `v0.8.0`** — see the [release notes](https://github.com/kevinlin49361128-stack/solar-system-3d/releases/tag/v0.8.0)
+- **Solar System 3D `v0.9.0`** — see the [release notes](https://github.com/kevinlin49361128-stack/solar-system-3d/releases/tag/v0.9.0)
 - **Score Arranger** — public macOS release; web landing for download
 - More on [my repositories →](https://github.com/kevinlin49361128-stack?tab=repositories)
 
